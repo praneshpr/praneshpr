@@ -12,7 +12,7 @@ I'm Pranesh and I live in Austin, TX. I hold a Master's degree in Computer Scien
 - 💬 What I believe in ? Treating people as people and help them reach their potential by listening and helping them grow
 
 
-🥅 Goals for 2021
+🥅  Goals for 2021
 
 I aspire to grow from being a tech/project lead to an Engineering Manager. One of my main goals for 2021 is improving my leadership skills, listen with empathy on what people want and what empowers them both personally and professionally. I have written quite a bit of frontend code but I have always been enthralled in learning more about the back of the frontend infrastructure/architecture wiz Webpack, Gulp, ESLint, Web performance, Alternative testing frameworks.
 
