@@ -9,7 +9,7 @@ I'm Pranesh and I live in Austin, TX. I hold a Master's degree in Computer Scien
 - 📖 &nbsp;&nbsp;Experienced in leading serveral large scale customer facing products/projects
 - 🌱 &nbsp;&nbsp;I'm currently learning to expand my skills on frontend infrastructure/architecture and web performance
 - 👯 &nbsp;&nbsp;I'm passionate about leading teams and projects and empowering a team to achieve both business and personal goals
-- 💬 &nbsp;&nbsp;What I believe in ? Treating people as people and help them reach their potential by listening and helping them grow
+- 💬 &nbsp;&nbsp;What I believe in ? Treating people as people and help them reach their potential by listening and helping them grow. Deeply care for your teammates in their professional development and care for their personal goals
 
 
 🥅 &nbsp;&nbsp;&nbsp;&nbsp;Goals for 2021
