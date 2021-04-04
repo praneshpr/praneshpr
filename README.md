@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+About Me: 
+
+I'm Pranesh and I live in Austin, TX. I hold a Master's degree in Computer Science from Georgia Tech. Here's a little more about me
+
+- 💻  Software developer with 10 years of experience in various stacks
+- 
 <!--
 **praneshpr/praneshpr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
