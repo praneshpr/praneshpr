@@ -18,7 +18,7 @@ I aspire to grow from being a tech/project lead to an Engineering Manager. One o
 
 ☕ &nbsp;&nbsp;&nbsp;&nbsp;Wanna chat ? :) 
 
-I'm always interested in learning and knowing about transitioning from an IC to an Engineering Manager (or) chatting about frontend technologies or just have coffee and talk about an interesting product/company. You can direct message me anytime on my LinkedIn/Twitter 
+I'm always interested in learning and knowing about transitioning from an IC to an Engineering Manager (or) chatting about frontend technologies or just have coffee and talk about an interesting product/company. You can email (or) direct message me anytime on my LinkedIn/Twitter 
 
 <!--
 **praneshpr/praneshpr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
